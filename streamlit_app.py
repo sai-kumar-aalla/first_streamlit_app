@@ -10,4 +10,7 @@ streamlit . text ('avocado toast')
 
 streamlit.header('bulid your own fruit smoothie')
 
+import pands 
+my_fruit_list = pandas.read_csv("https://uni-lab-files.s3.us-west-2.amazon.com/dabw/fruit_macors.txt"
+streamlit.dataframe(my_friut_list)
 
